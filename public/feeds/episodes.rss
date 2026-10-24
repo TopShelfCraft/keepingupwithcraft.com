@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Keeping Up With Craft CMS</title>
+        <link>https://keepingupwithcraft.com</link>
+        <language>en-us</language>
+        <atom:link href="https://keepingupwithcraft.com/feeds/episodes.rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 16 Apr 2025 10:08:53 +0000</pubDate>
+        <lastBuildDate>Wed, 16 Apr 2025 10:08:53 +0000</lastBuildDate>
+        <copyright>2016-2017 Michael Rog</copyright>
+        <itunes:subtitle>Highlights from the #CraftCMS world</itunes:subtitle>
+        <itunes:summary>Short conversations wherein we help you keep up with the goings-on of the Craft CMS world (and
+            web development in general) by highlighting stuff that happened that we think is worth a look. #craftcms
+        </itunes:summary>
+        <description>Short conversations wherein we help you keep up with the goings-on of the Craft CMS world (and web
+            development in general) by highlighting stuff that happened that we think is worth a look. #craftcms
+        </description>
+        <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+        <itunes:owner>
+            <itunes:name>Michael Rog</itunes:name>
+            <itunes:email>michael@michaelrog.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <item>
+            <title>#dotall2017 Recap</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 15</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    Recently in the CraftCMS world... The inaugural Dot All conference was a success. P&amp;T announced exciting things, including the Craft 3 GA release date (4/4/18). Michael and Andrew talk about the talks they liked, takeaways from the conference, etc,
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the CraftCMS world... The inaugural <a href="https://dotall.com/2017">Dot All</a> conference was a big success. Pixel & Tonic announced some <a href="https://craftcms.com/news/dot-all-2017-announcements">exciting things</a>: the Craft 3 GA release date (4/4/18), new licenses, a CKEditor 5 fieldtype, and more. Michael and Andrew talk about the talks they liked, their takeaways from the conference as a whole, and how they don't want to do anything except hack on Craft 3 stuff 'til April. <em>(n.b.Michael had pants on for the entire duration of this recording.)</em></p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the CraftCMS world... The inaugural <a href="https://dotall.com/2017">Dot All</a> conference was a big success. Pixel & Tonic announced some <a href="https://craftcms.com/news/dot-all-2017-announcements">exciting things</a>: the Craft 3 GA release date (4/4/18), new licenses, a CKEditor 5 fieldtype, and more. Michael and Andrew talk about the talks they liked, their takeaways from the conference as a whole, and how they don't want to do anything except hack on Craft 3 stuff 'til April. <em>(n.b.&nbsp;Michael had pants on for the entire duration of this recording.)</em></p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0015.mp3"
+                    length="8103673" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-15</guid>
+            <id>15</id>
+            <pubDate>Thu, 26 Oct 2017 04:46:00 +0000</pubDate>
+            <itunes:duration>16:53</itunes:duration>
+        </item>
+        <item>
+            <title>AMP-ing up your content, Solspace Freeform, Meetups, and kangaroos</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 13</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Recently in the CraftCMS world... Michael and Andrew have been <a href="https://2016.cssconf.com.au">talking</a> and <a href="https://nystudio107.com/blog/google-amp-should-you-care">writing</a> about <a href="https://www.ampproject.org/">AMP</a> &mdash; and Craft is the perfect CMS for implementing AMP content! Solspace released <a href="https://solspace.com/craft/freeform">Freeform</a>. <a href="https://caffeinecreations.ca/blog/toronto-craft-cms-meetup/">Toronto</a> and <a href="https://www.meetup.com/Melbourne-Craft-CMS-Meetup/events/235773795/">Melbourne</a> have upcoming Meetups. Michael attempts to speak 'Strayan; Andrew is jealous.</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the CraftCMS world... Michael and Andrew have been <a href="https://2016.cssconf.com.au">talking</a> and <a href="https://nystudio107.com/blog/google-amp-should-you-care">writing</a> about <a href="https://www.ampproject.org/">AMP</a> &mdash; and Craft is the perfect CMS for implementing AMP content! Solspace released <a href="https://solspace.com/craft/freeform">Freeform</a>. <a href="https://caffeinecreations.ca/blog/toronto-craft-cms-meetup/">Toronto</a> and <a href="https://www.meetup.com/Melbourne-Craft-CMS-Meetup/events/235773795/">Melbourne</a> have upcoming Meetups. Michael attempts to speak 'Strayan; Andrew is jealous.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the CraftCMS world... Michael and Andrew have been <a href="https://2016.cssconf.com.au">talking</a> and <a href="https://nystudio107.com/blog/google-amp-should-you-care">writing</a> about <a href="https://www.ampproject.org/">AMP</a> &mdash; and Craft is the perfect CMS for implementing AMP content! Solspace released <a href="https://solspace.com/craft/freeform">Freeform</a>. <a href="https://caffeinecreations.ca/blog/toronto-craft-cms-meetup/">Toronto</a> and <a href="https://www.meetup.com/Melbourne-Craft-CMS-Meetup/events/235773795/">Melbourne</a> have upcoming Meetups. Michael attempts to speak 'Strayan; Andrew is jealous.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0013.mp3"
+                    length="8234387" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-13</guid>
+            <id>13</id>
+            <pubDate>Tue, 06 Dec 2016 07:12:00 +0000</pubDate>
+            <itunes:duration>17:09</itunes:duration>
+        </item>
+        <item>
+            <title>Multi-Site features coming to Craft 3</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 12</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    Recently in the CraftCMS world... Pixel&nbsp;&amp;&nbsp;Tonic announced that Craft 3 will support multi-site setups by expanding the concept of locales into &quot;sites.&quot;
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the CraftCMS world... Pixel & Tonic announced that Craft 3 will support multi-site setups by expanding the concept of locales into "sites."</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the CraftCMS world... Pixel & Tonic announced that Craft 3 will support multi-site setups by expanding the concept of locales into&nbsp;"sites."</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0012.mp3"
+                    length="6080017" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-12</guid>
+            <id>12</id>
+            <pubDate>Thu, 15 Sep 2016 23:20:00 +0000</pubDate>
+            <itunes:duration>12:40</itunes:duration>
+        </item>
+        <item>
+            <title>Craft 3 is awake again, and Yii 2 is AWESOME</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 11</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    Recently in the CraftCMS world... PT has ported all the 2.5 and 2.6 functionality to the 3.x branch, which means Craft 3 beta is coming in hot. We talk about how Yii 2 is the focus for the 3.0 release, and why this is awesome.
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the CraftCMS world... PT has ported all the 2.5 and 2.6 functionality to the 3.x branch, which means Craft 3 beta is coming in hot. We talk about how Yii 2 is the focus for the 3.0 release, and why this is awesome.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the CraftCMS world... PT has ported all the 2.5 and 2.6 functionality to the 3.x branch, which means Craft 3 beta is coming in hot. We talk about how Yii 2 is the focus for the 3.0 release, and why this is&nbsp;awesome.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0011.mp3"
+                    length="7921127" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-11</guid>
+            <id>11</id>
+            <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+            <itunes:duration>16:30</itunes:duration>
+        </item>
+        <item>
+            <title>Craft CMS Critical Update: Info from P&amp;T's Brad Bell</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 10</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Recently in the CraftCMS world... Build <a href="https://craftcms.com/changelog#build2791">2.6.2791</a>, Craft's first ever critical update, addresses a clever <a href="https://www.securify.nl/advisory/SFY20160608/craft_cms_affected_by_server_side_template_injection.html">template injection vulnerability</a>. Pixel & Tonic released a fix in less than 24 hours from initial disclosure, and you should definitely make sure you've updated. In this episode, Brad Bell walks us through how the exploit works and how they patched it.</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the CraftCMS world... Build <a href="https://craftcms.com/changelog#build2791">2.6.2791</a>, Craft's first ever critical update, addresses a clever <a href="https://www.securify.nl/advisory/SFY20160608/craft_cms_affected_by_server_side_template_injection.html">template injection vulnerability</a>. Pixel & Tonic released a fix in less than 24 hours from initial disclosure, and you should definitely make sure you've updated. In this episode, Brad Bell walks us through how the exploit works and how they patched it.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the CraftCMS world... Build <a href="https://craftcms.com/changelog#build2791">2.6.2791</a>, Craft's first ever critical update, addresses a clever <a href="https://www.securify.nl/advisory/SFY20160608/craft_cms_affected_by_server_side_template_injection.html">template injection vulnerability</a>. Pixel & Tonic released a fix in less than 24 hours from initial disclosure, and you should definitely make sure you've updated. In this episode, Brad Bell walks us through how the exploit works and how they patched&nbsp;it.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0010.mp3"
+                    length="7713819" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-10</guid>
+            <id>10</id>
+            <pubDate>Tue, 05 Jul 2016 17:28:00 +0000</pubDate>
+            <itunes:duration>16:04</itunes:duration>
+        </item>
+        <item>
+            <title>The Security Episode: Craft Security best practices, ImageMagick, Sherlock, and more</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 9</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Recently in the Craft CMS world... ImageMagick (used by many Craft installs) has a security vulnerability. Michael & Andrew talk about the details and emphasize the importance of keeping your software up-to-date. We also talk about some emerging security best practices for Craft CMS as well as a new security audit plugin, Sherlock.</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the Craft CMS world... ImageMagick (used by many Craft installs) has a security vulnerability. Michael & Andrew talk about the details and emphasize the importance of keeping your software up-to-date. We also talk about some emerging security best practices for Craft CMS as well as a new security audit plugin, Sherlock.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the Craft CMS world... ImageMagick (used by many Craft installs) has a security vulnerability. Michael & Andrew talk about the details and emphasize the importance of keeping your software up-to-date. We also talk about some emerging security best practices for Craft CMS as well as a new security audit plugin,&nbsp;Sherlock.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0009.mp3"
+                    length="5237411" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-9</guid>
+            <id>9</id>
+            <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+            <itunes:duration>10:55</itunes:duration>
+        </item>
+        <item>
+            <title>Andrew's birthday presents to everybody, Solspace Calendar, and COME TO GEEUP!</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 8</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                <p>Recently in the CraftCMS world... <a href="https://twitter.com/nystudio107">Andrew</a> had a birthday and released a truckload of new stuff: <a href="https://github.com/nystudio107/retour">Retour</a> (for handling 404 redirects), <a href="https://github.com/nystudio107/recipe">Recipe</a>, and <a href="https://github.com/nystudio107/generator-craftinstall">generator-craftinstall</a> (Yeoman generator for bootstrapping CraftCMS projects). Michael released <a href="https://github.com/TopShelfCraft/Hue">Hue</a>, a color picker fieldtype w/ true null values for empty colors. Solspace released a massive new <a href="https://solspace.com/craft/calendar">Calendar</a> plugin. And, if you're in Europe, you should definitely plan to come to <a href="https://geeuphq.com/">GeeUp</a>.</p>
+                ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the CraftCMS world... <a href="https://twitter.com/nystudio107">Andrew</a> had a birthday and released a truckload of new stuff: <a href="https://github.com/nystudio107/retour">Retour</a> (for handling 404 redirects), <a href="https://github.com/nystudio107/recipe">Recipe</a>, and <a href="https://github.com/nystudio107/generator-craftinstall">generator-craftinstall</a> (Yeoman generator for bootstrapping CraftCMS projects). Michael released <a href="https://github.com/TopShelfCraft/Hue">Hue</a>, a color picker fieldtype w/ true null values for empty colors. Solspace released a massive new <a href="https://solspace.com/craft/calendar">Calendar</a> plugin. And, if you're in Europe, you should definitely plan to come to <a href="https://geeuphq.com/">GeeUp</a>.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the CraftCMS world... <a href="https://twitter.com/nystudio107">Andrew</a> had a birthday and released a truckload of new stuff: <a href="https://github.com/nystudio107/retour">Retour</a> (for handling 404 redirects), <a href="https://github.com/nystudio107/recipe">Recipe</a>, and <a href="https://github.com/nystudio107/generator-craftinstall">generator-craftinstall</a> (Yeoman generator for bootstrapping CraftCMS projects). Michael released <a href="https://github.com/TopShelfCraft/Hue">Hue</a>, a color picker fieldtype w/ true null values for empty colors. Solspace released a massive new <a href="https://solspace.com/craft/calendar">Calendar</a> plugin. And, if you're in Europe, you should definitely plan to come to&nbsp;<a href="https://geeuphq.com/">GeeUp</a>.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0008.mp3"
+                    length="11909085" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-8</guid>
+            <id>8</id>
+            <pubDate>Sun, 08 May 2016 23:30:00 +0000</pubDate>
+            <itunes:duration>24:49</itunes:duration>
+        </item>
+        <item>
+            <title>Eager loading in the CP, template modes, deprecation errors, PDF emailing, and more!</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 7</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Recently in the CraftCMS world... Craft now utilizes eager loading on the element index pages for a much faster CP experience. Template Modes are the new template paths. Straight Up Craft added elastic search for plugins, and craftplug.in launched. PicPuller is back! Printmaker got an upgrade; PDFs are now emailable.</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Recently in the CraftCMS world... Craft now utilizes eager loading on the element index pages for a much faster CP experience. Template Modes are the new template paths. Straight Up Craft added elastic search for plugins, and craftplug.in launched. PicPuller is back! Printmaker got an upgrade; PDFs are now emailable.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Recently in the CraftCMS world... Craft now utilizes eager loading on the element index pages for a much faster CP experience. Template Modes are the new template paths. Straight Up Craft added elastic search for plugins, and craftplug.in launched. PicPuller is back! Printmaker got an upgrade; PDFs are now&nbsp;emailable.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0007.mp3"
+                    length="7147067" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-7</guid>
+            <id>7</id>
+            <pubDate>Tue, 19 Apr 2016 18:11:00 +0000</pubDate>
+            <itunes:duration>14:53</itunes:duration>
+        </item>
+        <item>
+            <title>Craft 2.6 is here! Eager loading! Rich Text links! Lange deutsche Wörter!</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 6</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Lately in the CraftCMS world... Craft 2.6 brings lots of new goodies: Eager loading for elements, a new Charts library, better link controls in Rich Text editor fields, customizable Client account permissions, and much more!</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Lately in the CraftCMS world... Craft 2.6 brings lots of new goodies: Eager loading for elements, a new Charts library, better link controls in Rich Text editor fields, customizable Client account permissions, and much more!</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Lately in the CraftCMS world... Craft 2.6 brings lots of new goodies: Eager loading for elements, a new Charts library, better link controls in Rich Text editor fields, customizable Client account permissions, and much&nbsp;more!</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0006.mp3"
+                    length="12786172" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-6</guid>
+            <id>6</id>
+            <pubDate>Fri, 11 Mar 2016 19:38:00 +0000</pubDate>
+            <itunes:duration>26:38</itunes:duration>
+        </item>
+        <item>
+            <title>Debugging tools, a Flexbox polyfill, and Craft Case Studies</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 5</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://github.com/mildlygeeky/craft_kint">Craft Kint</a> enables powerful PHP debugging in Craft templates. <a href="https://github.com/TopShelfCraft/Papertrail">Papertrail</a> enables Craft templates and plugins to publish events to a live, aggregated log feed. <a href="https://github.com/10up/flexibility">Flexibility</a> provides a robust polyfill that <a href="https://10up.github.io/flexibility/">enables Flexbox directives in legacy browsers</a>. And, Pixel & Tonic's Craft <a href="https://craftcms.com/news/case-studies">Case Studies</a> show that CraftCMS is being adopted and trusted in big-name, high-stakes projects.</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://github.com/mildlygeeky/craft_kint">Craft Kint</a> enables powerful PHP debugging in Craft templates. <a href="https://github.com/TopShelfCraft/Papertrail">Papertrail</a> enables Craft templates and plugins to publish events to a live, aggregated log feed. <a href="https://github.com/10up/flexibility">Flexibility</a> provides a robust polyfill that <a href="https://10up.github.io/flexibility/">enables Flexbox directives in legacy browsers</a>. And, Pixel & Tonic's Craft <a href="https://craftcms.com/news/case-studies">Case Studies</a> show that CraftCMS is being adopted and trusted in big-name, high-stakes projects.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://github.com/mildlygeeky/craft_kint">Craft Kint</a> enables powerful PHP debugging in Craft templates. <a href="https://github.com/TopShelfCraft/Papertrail">Papertrail</a> enables Craft templates and plugins to publish events to a live, aggregated log feed. <a href="https://github.com/10up/flexibility">Flexibility</a> provides a robust polyfill that <a href="https://10up.github.io/flexibility/">enables Flexbox directives in legacy browsers</a>. And, Pixel & Tonic's Craft <a href="https://craftcms.com/news/case-studies">Case Studies</a> show that CraftCMS is being adopted and trusted in big-name, high-stakes&nbsp;projects.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0005.mp3"
+                    length="10151148" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-5</guid>
+            <id>5</id>
+            <pubDate>Fri, 19 Feb 2016 23:30:00 +0000</pubDate>
+            <itunes:duration>21:09</itunes:duration>
+        </item>
+        <item>
+            <title>Lettering, Sprout Email, Reservations + Commerce, Straight Up Hangouts, &amp; a new Link List</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 4</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Lately in the CraftCMS world... Fred Carlsen & Mats Mikkel Rummelhoff ported <a href="https://letteringjs.com/">Lettering.js</a> into a plugin: <a href="https://github.com/sjelfull/Craft-Lettering">Craft Lettering</a>. <a href="https://sprout.barrelstrengthdesign.com/craft-plugins/email">Sprout Email</a> now supports several Craft Commerce events. Philip Zaengle and his team <a href="https://zaengle.com/blog/reservation-booking-with-craft-commerce">integrated Craft Commerce with a reservation booking system</a> and wrote about it in their blog. <a href="https://straightupcraft.com/hangouts">Straight Up Hangouts</a> are back, starting with an <a href="https://straightupcraft.com/events/introduction-to-craft-commerce">Introduction to Craft&nbsp;Commerce</a> with Luke Holder. Ctrl+Click+Cast did an episode about "<a href="https://ctrlclickcast.com/episodes/practical-pricing">Practical Pricing</a>" that everyone should listen to. And, John Morton released a <a href="https://craftlinklist.com/issues/10#start">new installment of the Craft Link List</a>.</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Lately in the CraftCMS world... Fred Carlsen & Mats Mikkel Rummelhoff ported <a href="https://letteringjs.com/">Lettering.js</a> into a plugin: <a href="https://github.com/sjelfull/Craft-Lettering">Craft Lettering</a>. <a href="https://sprout.barrelstrengthdesign.com/craft-plugins/email">Sprout Email</a> now supports several Craft Commerce events. Philip Zaengle and his team <a href="https://zaengle.com/blog/reservation-booking-with-craft-commerce">integrated Craft Commerce with a reservation booking system</a> and wrote about it in their blog. <a href="https://straightupcraft.com/hangouts">Straight Up Hangouts</a> are back, starting with an <a href="https://straightupcraft.com/events/introduction-to-craft-commerce">Introduction to Craft&nbsp;Commerce</a> with Luke Holder. Ctrl+Click+Cast did an episode about "<a href="https://ctrlclickcast.com/episodes/practical-pricing">Practical Pricing</a>" that everyone should listen to. And, John Morton released a <a href="https://craftlinklist.com/issues/10#start">new installment of the Craft Link List</a>.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Lately in the CraftCMS world... Fred Carlsen & Mats Mikkel Rummelhoff ported <a href="https://letteringjs.com/">Lettering.js</a> into a plugin: <a href="https://github.com/sjelfull/Craft-Lettering">Craft Lettering</a>. <a href="https://sprout.barrelstrengthdesign.com/craft-plugins/email">Sprout Email</a> now supports several Craft Commerce events. Philip Zaengle and his team <a href="https://zaengle.com/blog/reservation-booking-with-craft-commerce">integrated Craft Commerce with a reservation booking system</a> and wrote about it in their blog. <a href="https://straightupcraft.com/hangouts">Straight Up Hangouts</a> are back, starting with an <a href="https://straightupcraft.com/events/introduction-to-craft-commerce">Introduction to Craft Commerce</a> with Luke Holder. Ctrl+Click+Cast did an episode about "<a href="https://ctrlclickcast.com/episodes/practical-pricing">Practical Pricing</a>" that everyone should listen to. And, John Morton released a <a href="https://craftlinklist.com/issues/10#start">new installment of the Craft&nbsp;Link&nbsp;List</a>.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0004.mp3"
+                    length="6100497" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-4</guid>
+            <id>4</id>
+            <pubDate>Sat, 06 Feb 2016 23:11:00 +0000</pubDate>
+            <itunes:duration>12:42</itunes:duration>
+        </item>
+        <item>
+            <title>Search Plus, The Continuing Saga of ??, CraftCMS market share, PeersConf, GeeUp</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 3</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://squarebit.co.uk/software/craft/searchplus">Search Plus</a> brings elastic search to Craft via <a href="https://www.algolia.com">Algolia</a>. The null coalescing operator is now available natively in <a href="https://twig.sensiolabs.org/">Twig</a>, so it'll hopefully be coming to Craft sometime soon. The <a href="https://trends.builtwith.com/cms/Craft">latest report</a> shows CraftCMS owning 0.1% market share among top CMSs. <a href="https://peersconf.com/">PeersConf</a> opened their 2016 <a href="https://peersconf1.typeform.com/to/tY3C9Z">Call for Proposals</a>. <a href="https://geeuphq.com/">GeeUp</a> tickets are on sale; Come hang out with Michael in Leiden this summer!</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://squarebit.co.uk/software/craft/searchplus">Search Plus</a> brings elastic search to Craft via <a href="https://www.algolia.com">Algolia</a>. The null coalescing operator is now available natively in <a href="https://twig.sensiolabs.org/">Twig</a>, so it'll hopefully be coming to Craft sometime soon. The <a href="https://trends.builtwith.com/cms/Craft">latest report</a> shows CraftCMS owning 0.1% market share among top CMSs. <a href="https://peersconf.com/">PeersConf</a> opened their 2016 <a href="https://peersconf1.typeform.com/to/tY3C9Z">Call for Proposals</a>. <a href="https://geeuphq.com/">GeeUp</a> tickets are on sale; Come hang out with Michael in Leiden this summer!</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://squarebit.co.uk/software/craft/searchplus">Search Plus</a> brings elastic search to Craft via <a href="https://www.algolia.com">Algolia</a>. The null coalescing operator is now available natively in <a href="https://twig.sensiolabs.org/">Twig</a>, so it'll hopefully be coming to Craft sometime soon. The <a href="https://trends.builtwith.com/cms/Craft">latest report</a> shows CraftCMS owning 0.1% market share among top CMSs. <a href="https://peersconf.com/">PeersConf</a> opened their 2016 <a href="https://peersconf1.typeform.com/to/tY3C9Z">Call for Proposals</a>. <a href="https://geeuphq.com/">GeeUp</a> tickets are on sale; Come hang out with Michael in Leiden this summer!</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0003.mp3"
+                    length="6767978" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-3</guid>
+            <id>3</id>
+            <pubDate>Fri, 29 Jan 2016 21:00:00 +0000</pubDate>
+            <itunes:duration>14:06</itunes:duration>
+        </item>
+        <item>
+            <title>Sprout Reports, Reasons, Embedded Assets, Contact Form, and P&amp;T's plugins are MIT-licensed!</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 2</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://github.com/mmikkel/Reasons-Craft">Reasons</a> helps you show/hide fields based on the content of other fields; use with caution. <a href="https://github.com/benjamminf/craft-embedded-assets">Embedded Assets</a> lets you treat remote content (YouTube/Vimeo/etc.) like native Assets. <a href="https://sprout.barrelstrengthdesign.com/craft-plugins/reports">Sprout Reports</a> is ready to play; check out the slick new API for defining your own reports/sources. The first-party <a href="https://github.com/pixelandtonic/ContactForm">Contact Form</a> plugin has gotten some sweet upgrades and is probably more powerful than you realize. And, most of <a href="https://github.com/pixelandtonic">P&T's plugins</a> are now <a href="https://github.com/pixelandtonic/ContactForm/blob/master/LICENSE">MIT-licensed</a>!</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://github.com/mmikkel/Reasons-Craft">Reasons</a> helps you show/hide fields based on the content of other fields; use with caution. <a href="https://github.com/benjamminf/craft-embedded-assets">Embedded Assets</a> lets you treat remote content (YouTube/Vimeo/etc.) like native Assets. <a href="https://sprout.barrelstrengthdesign.com/craft-plugins/reports">Sprout Reports</a> is ready to play; check out the slick new API for defining your own reports/sources. The first-party <a href="https://github.com/pixelandtonic/ContactForm">Contact Form</a> plugin has gotten some sweet upgrades and is probably more powerful than you realize. And, most of <a href="https://github.com/pixelandtonic">P&T's plugins</a> are now <a href="https://github.com/pixelandtonic/ContactForm/blob/master/LICENSE">MIT-licensed</a>!</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Lately in the CraftCMS world... <a href="https://github.com/mmikkel/Reasons-Craft">Reasons</a> helps you show/hide fields based on the content of other fields; use with caution. <a href="https://github.com/benjamminf/craft-embedded-assets">Embedded Assets</a> lets you treat remote content (YouTube/Vimeo/etc.) like native Assets. <a href="https://sprout.barrelstrengthdesign.com/craft-plugins/reports">Sprout Reports</a> is ready to play; check out the slick new API for defining your own reports/sources. The first-party <a href="https://github.com/pixelandtonic/ContactForm">Contact Form</a> plugin has gotten some sweet upgrades and is probably more powerful than you realize. And, most of <a href="https://github.com/pixelandtonic">P&T's plugins</a> are now&nbsp;<a href="https://github.com/pixelandtonic/ContactForm/blob/master/LICENSE">MIT-licensed</a>!</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0002.mp3"
+                    length="7667217" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-2</guid>
+            <id>2</id>
+            <pubDate>Fri, 22 Jan 2016 17:15:00 +0000</pubDate>
+            <itunes:duration>15:58</itunes:duration>
+        </item>
+        <item>
+            <title>PluginFactory.io, SEOmatic, Null coalescing, Craft CLI, and I CAN PUT URL FRAGMENTS IN MY RICH TEXT EDITOR!!!!</title>
+            <link>https://keepingupwithcraft.com</link>
+            <itunes:author>Michael Rog &amp; Andrew Welch</itunes:author>
+            <itunes:subtitle>Episode 1</itunes:subtitle>
+            <itunes:summary><![CDATA[
+                    <p>Lately in the CraftCMS world... Andrew Welch released <a href="https://pluginfactory.io/">PluginFactory.io</a>, a Yeoman generator for Craft plugins, and SEOmatic. Michael released <a href="https://github.com/TopShelfCraft/QQ">QQ</a> and hopes that everyone starts using the <a href="https://en.wikipedia.org/wiki/Null_coalescing_operator">null coalescing operator</a>. Rob Sanchez wrote a <a href="https://github.com/rsanchez/craft-cli">Craft CLI</a>. And, best news of the week... Craft's rich text editor now lets you <a href="https://craftcms.com/changelog#build2759">add your own URL fragments to Entry links</a>.</p>
+                    ]]></itunes:summary>
+            <description><![CDATA[
+                    <p>Lately in the CraftCMS world... Andrew Welch released <a href="https://pluginfactory.io/">PluginFactory.io</a>, a Yeoman generator for Craft plugins, and SEOmatic. Michael released <a href="https://github.com/TopShelfCraft/QQ">QQ</a> and hopes that everyone starts using the <a href="https://en.wikipedia.org/wiki/Null_coalescing_operator">null coalescing operator</a>. Rob Sanchez wrote a <a href="https://github.com/rsanchez/craft-cli">Craft CLI</a>. And, best news of the week... Craft's rich text editor now lets you <a href="https://craftcms.com/changelog#build2759">add your own URL fragments to Entry links</a>.</p>
+                    ]]></description>
+            <content:encoded><![CDATA[
+                    <p>Lately in the CraftCMS world... Andrew Welch released <a href="https://pluginfactory.io/">PluginFactory.io</a>, a Yeoman generator for Craft plugins, and SEOmatic. Michael released <a href="https://github.com/TopShelfCraft/QQ">QQ</a> and hopes that everyone starts using the <a href="https://en.wikipedia.org/wiki/Null_coalescing_operator">null coalescing operator</a>. Rob Sanchez wrote a <a href="https://github.com/rsanchez/craft-cli">Craft CLI</a>. And, best news of the week... Craft's rich text editor now lets you <a href="https://craftcms.com/changelog#build2759">add your own URL fragments to Entry&nbsp;links</a>.</p>
+                    ]]></content:encoded>
+            <itunes:image href="https://keepingupwithcraft.com/assets/images/kuwcCoverArt.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <enclosure
+                    url="https://keepingupwithcraft.com/media/episodes/KUWC/KeepingUpWithCraft0001.mp3"
+                    length="8418916" type="audio/mpeg"/>
+            <guid isPermaLink="false">KUWC-1</guid>
+            <id>1</id>
+            <pubDate>Fri, 15 Jan 2016 21:15:00 +0000</pubDate>
+            <itunes:duration>17:32</itunes:duration>
+        </item>
+    </channel>
+</rss>

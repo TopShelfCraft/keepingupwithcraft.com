@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@plugin '@tailwindcss/typography';
+
+@theme inline {
+  --font-sans:
+    var(--font-open-sans), ui-sans-serif, system-ui, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --color-theme: #0a4b3c;
+  --color-accent: #f8ffdf;
+  --color-translucent: rgba(255, 255, 255, 0.1);
+}
